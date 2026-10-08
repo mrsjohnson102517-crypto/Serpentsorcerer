@@ -1,0 +1,6 @@
+{
+  "name": "Serpent Sorcerer",
+  "description": "A mystical, mobile-first exotic reptile, amphibian, and bioactive marketplace with zero transaction commissions, server-verified Founding 50 breeder memberships, and a production-grade Supabase PostgreSQL architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
